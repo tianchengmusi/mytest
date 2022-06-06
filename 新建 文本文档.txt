@@ -1,0 +1,38 @@
+i5 12400f   				1050
+H610 					450
+长城600w金牌电源 			199
+七彩虹战戟 ddr4 3200 8*2 	198*2
+rtx2060-6G 				2248
+先马平头哥				119
+七彩虹固态256g			198
+
+					4660
+
+
+
+
+swagger 使用
+debug 运行原理
+jwt 
+验证码 
+redis 
+单例模式  双重锁  双重null判断  synchronized关键字
+白盒测试
+
+1、3年以上Java开发经验&#xff0c;良好的编程习惯
+
+2、3年以上企业应用系统开发经验&#xff0c;了解ERP或CRM相关知识
+
+3、扎实的Java开发基础&#xff0c;熟练掌握SpringBoot、SpringCloud等主流框架&#xff0c;熟练掌握Dubbo、RabbitMQ、Kafka、Swagger等开发技术&#xff0c;熟练掌握等相关操作
+
+4、熟练使用MySQL&#xff0c;精通SQL开发&#xff0c;熟练使用JDBC、Mybatis、Mybatis Plus&#xff0c;熟悉Redis、Mango等非关系数据的使用
+
+5、熟练掌握Linux的使用&#xff0c;熟悉Tomcat、Nginx、Apache等服务端软件的配置
+
+6、熟悉UML的使用
+
+7、具备良好的分析解决问题能力&#xff0c;能带队承担复杂系统开发工作
+
+8、精通白盒测试原理&#xff0c;熟练使用相关测试工具者优先
+
+9、熟练使用Jenkins、DevOps、docker、Rancher、lstio等工具者优先
